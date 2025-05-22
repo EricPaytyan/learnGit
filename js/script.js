@@ -6,7 +6,7 @@ function testForGit(msg) {
     const tArr = [];
     for (let index = 0; index < 100; index++) {
         tArr.push(`index is  ${index * 2}`);
-        
+
     }
 
     console.log(tArr);
@@ -20,7 +20,11 @@ function sum(a, b) {
 }
 
 console.log('after startFN');
-
+// while (arr.length > 1) {}
+// binarySearch(arr) {
+// ...
+//  binarySearch(arr.slice(start, end))) {
+//}
 
 
 
