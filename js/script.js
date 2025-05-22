@@ -15,6 +15,10 @@ function testForGit(msg) {
 
 testForGit('hello msg 1')
 
+function sum(a, b) {
+    return a + b
+}
+
 console.log('after startFN');
 
 
