@@ -5,7 +5,7 @@ function testForGit(msg) {
     //console.log(msg);
     const tArr = [];
     for (let index = 0; index < 100; index++) {
-        tArr.push('index is ' + index * 2)
+        tArr.push(`index is  ${index * 2}`);
         
     }
 
