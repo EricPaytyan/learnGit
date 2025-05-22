@@ -12,7 +12,9 @@ c = 'Danil'; //  присваивание значения
 
 // console.log(c);
 
-
+function sum(a, b) {
+    return a + b
+}
 // Примитивные типы данных
 
 // Number
